@@ -18,14 +18,12 @@ ssuyashhhh@github:
   -------------------------------------------------------------
 
 Passionate developer who enjoys solving difficult problems, contributing to open source,
-uncovering bugs, and creating software that makes a difference.
-
+uncovering bugs.
 {
   "active_work": [
     "Open Source Projects",
     "Competitive Programming",
     "Personal Projects",
-    "Software Development",
     "Community Contributions"
   ]
 }
@@ -34,7 +32,7 @@ uncovering bugs, and creating software that makes a difference.
 
 ## 🛠️ Tech 
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center"><b>Languages</b></td>
