@@ -69,11 +69,11 @@ uncovering bugs, and creating software that makes a difference.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuyashhhh&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuyashhhh&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="Top Languages" height="200" />
   
   <br/><br/>
   
-  <img src="https://streak-stats.demolab.com?user=ssuyashhhh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="200" />
+  <img src="https://streak-stats.demolab.com?user=ssuyashhhh&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="GitHub Streak Stats" height="200" />
 </div>
 
 ---
