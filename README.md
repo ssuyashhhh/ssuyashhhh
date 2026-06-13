@@ -126,96 +126,24 @@ ssuyashhhh@github:~$ cat current_focus.json
 
 ---
 
-## 🚀 My Journey
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Open Source & Security</h3>
-      <p>A firm believer in community-driven, transparent software. My focus is on:</p>
-      <ul>
-        <li><b>Bug Hunting:</b> Deep-diving into codebases to find edge cases, performance bottlenecks, and security vulnerabilities.</li>
-        <li><b>Sustainable Contributions:</b> Submitting clean, well-tested PRs that improve the maintenance score of core utilities.</li>
-        <li><b>Community Support:</b> Helping shape tools that thousands of developers use daily.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 Competitive Programming</h3>
-      <p>Solving complex challenges under strict time and resource constraints. I focus on:</p>
-      <ul>
-        <li><b>Algorithmic Thinking:</b> Structuring solutions using graph theory, combinatorics, number theory, and advanced dynamic programming.</li>
-        <li><b>C++ Mastery:</b> Leveraging modern C++ concepts for high-performance execution.</li>
-        <li><b>Problem Solving:</b> Treating code optimization as a science, keeping runtime and memory footprints to the bare minimum.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Achievements & Milestones
-
-<table border="0">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🐙</h3>
-      <h4>Open Source Impact</h4>
-      <p>Uncovering critical bugs and contributing high-quality pull requests to community projects.</p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🧠</h3>
-      <h4>Algorithmic Excellence</h4>
-      <p>Developing optimal solutions for complex mathematical and logic-based problems.</p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>📚</h3>
-      <h4>Continuous Learning</h4>
-      <p>Applying mathematics and computer science theory directly to real-world software architecture.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ssuyashhhh&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Suyash's GitHub Stats" height="200" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuyashhhh&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="200" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com?user=ssuyashhhh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuyashhhh&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="200" />
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssuyashhhh&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ff9e64&area=true&hide_border=false" alt="GitHub Activity Graph" width="850" />
+  <img src="https://streak-stats.demolab.com?user=ssuyashhhh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="200" />
 </div>
 
 ---
 
 ## 🎨 Contribution Showcase
 
-<table border="0">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>👾 Contribution Snake</h4>
-      <img src="https://raw.githubusercontent.com/ssuyashhhh/ssuyashhhh/snake-output/snake.svg" alt="Snake Animation" width="100%" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>📊 3D Contribution Space</h4>
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h4>📊 3D Contribution Space</h4>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="70%" />
+</div>
 
 ---
 
