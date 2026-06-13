@@ -139,21 +139,5 @@ ssuyashhhh@github:~$ cat current_focus.json
 ---
 
 <div align="center">
-  <h3>🤝 Connect & Collaborate</h3>
-  
-  <a href="https://linkedin.com/in/suyash-singh-4b616a324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/suyashhhh.s/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ssuyashhhh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br/><br/>
-
   <p><i>"Building, debugging, and contributing—one commit at a time."</i></p>
 </div>
