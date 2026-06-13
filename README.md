@@ -1,36 +1,6 @@
-<div align="center">
-  <!-- Typing Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=bf7af0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suyash+Singh;Open+Source+Contributor;Competitive+Programmer;Full+Stack+Developer;Problem+Solver;Bug+Hunter" alt="Typing SVG" />
-  </a>
-  
-  <!-- Social Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/suyash-singh-4b616a324" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/suyashhhh.s/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/ssuyashhhh" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-  
-  <!-- Visitor Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ssuyashhhh&color=bf7af0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-</div>
-
----
-
-### 💻 whoami --terminal
 
 ```bash
-ssuyashhhh@github:~$ neofetch
+ssuyashhhh@github:
  
   ███████╗██╗   ██╗██╗   ██╗ █████╗ ███████╗██╗  ██╗
   ██╔════╝██║   ██║╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║
@@ -47,11 +17,9 @@ ssuyashhhh@github:~$ neofetch
   Motto: "Building, debugging, and contributing—one commit at a time."
   -------------------------------------------------------------
 
-ssuyashhhh@github:~$ whoami
 Passionate developer who enjoys solving difficult problems, contributing to open source,
 uncovering bugs, and creating software that makes a difference.
 
-ssuyashhhh@github:~$ cat current_focus.json
 {
   "active_work": [
     "Open Source Projects",
@@ -64,7 +32,7 @@ ssuyashhhh@github:~$ cat current_focus.json
 ```
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech 
 
 <div align="center">
   <table>
@@ -106,6 +74,30 @@ ssuyashhhh@github:~$ cat current_focus.json
   <br/><br/>
   
   <img src="https://streak-stats.demolab.com?user=ssuyashhhh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="200" />
+</div>
+
+---
+
+<div align="center">
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/suyash-singh-4b616a324" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/suyashhhh.s/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/ssuyashhhh" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+  
+  <!-- Visitor Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ssuyashhhh&color=bf7af0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 </div>
 
 ---
