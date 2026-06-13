@@ -138,15 +138,6 @@ ssuyashhhh@github:~$ cat current_focus.json
 
 ---
 
-## 🎨 Contribution Showcase
-
-<div align="center">
-  <h4>📊 3D Contribution Space</h4>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="70%" />
-</div>
-
----
-
 <div align="center">
   <h3>🤝 Connect & Collaborate</h3>
   
