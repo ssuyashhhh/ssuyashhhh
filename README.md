@@ -38,28 +38,19 @@ uncovering bugs, and creating software that makes a difference.
   <table>
     <tr>
       <td align="center"><b>Languages</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=cpp,java,py,js&theme=dark" alt="Languages" />
-      </td>
+      <td><code>C++</code>, <code>Java</code>, <code>JavaScript</code>, <code>Python</code></td>
     </tr>
     <tr>
       <td align="center"><b>Frontend</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js&theme=dark" alt="Frontend" />
-      </td>
+      <td><code>React</code>, <code>Next.js</code>, <code>Angular</code>, <code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code></td>
     </tr>
     <tr>
       <td align="center"><b>Backend</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi&theme=dark" alt="Backend" />
-      </td>
+      <td><code>Node.js</code>, <code>NestJS</code>, <code>FastAPI</code></td>
     </tr>
     <tr>
       <td align="center"><b>Tools</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,firebase,jest&theme=dark" alt="Tools" />
-        <img src="https://img.shields.io/badge/PuTTY-005B96?style=for-the-badge&logo=putty&logoColor=white" height="50" alt="PuTTY" style="vertical-align: top;" />
-      </td>
+      <td><code>Git</code>, <code>Firebase</code>, <code>Jest</code>, <code>PuTTY</code></td>
     </tr>
   </table>
 </div>
