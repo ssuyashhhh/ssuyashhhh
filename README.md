@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=bf7af0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suyash+Singh;Open+Source+Contributor;Competitive+Programmer;Full+Stack+Developer;Problem+Solver;Bug+Hunter" alt="Typing SVG" />
   </a>
   
-  <p align="center">
-    <strong>"Building, debugging, and contributing—one commit at a time."</strong>
-  </p>
-  
   <!-- Social Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/suyash-singh-4b616a324" target="_blank">
@@ -66,30 +62,6 @@ ssuyashhhh@github:~$ cat current_focus.json
   ]
 }
 ```
-
----
-
-## 👤 About Me
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>I am a highly motivated student developer currently pursuing an <strong>Integrated Degree (Bachelors + Masters) in Mathematics and Computer Science</strong> at the <strong>Birla Institute of Technology, Mesra</strong>.</p>
-      <p>My academic path bridges abstract mathematical logic with concrete computer science, equipping me with a unique analytical lens. I specialize in designing scalable full-stack web applications, debugging complex systems, and optimizing algorithm efficiency.</p>
-      <p>I thrive in the intersection of theory and practice—taking rigorous mathematical principles and implementing them in clean, high-performance software solutions.</p>
-    </td>
-    <td width="40%" valign="top">
-      <h4>⚡ Quick Facts</h4>
-      <ul>
-        <li>🎓 <b>Education:</b> Math & Computer Science (BS+MS)</li>
-        <li>🌐 <b>Location:</b> India 🇮🇳</li>
-        <li>🔍 <b>Interests:</b> Full Stack, CP, Open Source, Security</li>
-        <li>🌱 <b>Philosophy:</b> Build securely, optimize deeply, share openly</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Arsenal
