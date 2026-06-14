@@ -30,7 +30,7 @@ uncovering bugs.
 ```
 ---
 
-## 🛠️ Tech 
+##  Tech 
 
 <div align="left">
   <table>
@@ -55,7 +55,7 @@ uncovering bugs.
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuyashhhh&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="Top Languages" height="200" />
